@@ -13,5 +13,3 @@ jobs:
       # 1. Checkout del código
       - name: Checkout repository
         uses: actions/checkout@v4
-
-
